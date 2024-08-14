@@ -1,3 +1,3 @@
 # connect-metamask-wallet
 
-https://inancakduvan.github.io/connect-metamask-wallet/
+https://jv420.github.io/connect-metamask-wallet/
